@@ -1,0 +1,68 @@
+column_name,description,,,fips,area_name
+AGE775214,"Persons 65 years and over, percent, 2014",,,42001,Adams County
+SEX255214,"Female persons, percent, 2014",,,42003,Allegheny County
+RHI125214,"White alone, percent, 2014",,,42005,Armstrong County
+RHI225214,"Black or African American alone, percent, 2014",,,42007,Beaver County
+RHI325214,"American Indian and Alaska Native alone, percent, 2014",,,42009,Bedford County
+RHI425214,"Asian alone, percent, 2014",,,42011,Berks County
+RHI525214,"Native Hawaiian and Other Pacific Islander alone, percent, 2014",,,42013,Blair County
+RHI625214,"Two or More Races, percent, 2014",,,42015,Bradford County
+RHI725214,"Hispanic or Latino, percent, 2014",,,42017,Bucks County
+RHI825214,"White alone, not Hispanic or Latino, percent, 2014",,,42019,Butler County
+POP715213,"Living in same house 1 year & over, percent, 2009-2013",,,42021,Cambria County
+POP645213,"Foreign born persons, percent, 2009-2013",,,42023,Cameron County
+EDU685213,"Bachelor's degree or higher, percent of persons age 25+, 2009-2013",,,42025,Carbon County
+VET605213,"Veterans, 2009-2013",,,42027,Centre County
+LFE305213,"Mean travel time to work (minutes), workers age 16+, 2009-2013",,,42029,Chester County
+HSG010214,"Housing units, 2014",,,42031,Clarion County
+HSG445213,"Homeownership rate, 2009-2013",,,42033,Clearfield County
+HSG495213,"Median value of owner-occupied housing units, 2009-2013",,,42035,Clinton County
+HSD410213,"Households, 2009-2013",,,42037,Columbia County
+HSD310213,"Persons per household, 2009-2013",,,42039,Crawford County
+INC910213,"Per capita money income in past 12 months (2013 dollars), 2009-2013",,,42041,Cumberland County
+INC110213,"Median household income, 2009-2013",,,42043,Dauphin County
+PVY020213,"Persons below poverty level, percent, 2009-2013",,,42045,Delaware County
+SBO001207,"Total number of firms, 2007",,,42047,Elk County
+LND110210,"Land area in square miles, 2010",,,42049,Erie County
+POP060210,"Population per square mile, 2010",,,42051,Fayette County
+,,,,42053,Forest County
+,,,,42055,Franklin County
+,,,,42057,Fulton County
+,,,,42059,Greene County
+,,,,42061,Huntingdon County
+,,,,42063,Indiana County
+,,,,42065,Jefferson County
+,,,,42067,Juniata County
+,,,,42069,Lackawanna County
+,,,,42071,Lancaster County
+,,,,42073,Lawrence County
+,,,,42075,Lebanon County
+,,,,42077,Lehigh County
+,,,,42079,Luzerne County
+,,,,42081,Lycoming County
+,,,,42083,McKean County
+,,,,42085,Mercer County
+,,,,42087,Mifflin County
+,,,,42089,Monroe County
+,,,,42091,Montgomery County
+,,,,42093,Montour County
+,,,,42095,Northampton County
+,,,,42097,Northumberland County
+,,,,42099,Perry County
+,,,,42101,Philadelphia County
+,,,,42103,Pike County
+,,,,42105,Potter County
+,,,,42107,Schuylkill County
+,,,,42109,Snyder County
+,,,,42111,Somerset County
+,,,,42113,Sullivan County
+,,,,42115,Susquehanna County
+,,,,42117,Tioga County
+,,,,42119,Union County
+,,,,42121,Venango County
+,,,,42123,Warren County
+,,,,42125,Washington County
+,,,,42127,Wayne County
+,,,,42129,Westmoreland County
+,,,,42131,Wyoming County
+,,,,42133,York County
