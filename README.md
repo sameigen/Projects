@@ -1,4 +1,4 @@
 # Projects
 Personal Projects
 
-TBD!
+TODO: refactor some old Machine Learning code
