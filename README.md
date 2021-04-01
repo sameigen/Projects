@@ -1,2 +1,4 @@
 # Projects
-Personal projects -- school and free time
+Personal Projects
+
+TBD!
